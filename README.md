@@ -1,4 +1,4 @@
-# PA5.2_CarPrice
+# PA11.1_DrivesCarPrice
 Practical Application Assignment 11.1: What Drives the Price of a Car?
 Link to Notebook: MG_PA_II_Prompt.ipynb
 
