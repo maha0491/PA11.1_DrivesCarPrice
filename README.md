@@ -18,7 +18,7 @@ Once I was able to find there 4 key features, I then wanted to see the trend of 
 ![TransmissionHistPlot](https://github.com/user-attachments/assets/42bb06b2-1e41-41d2-bb60-07c41282846c)
 #### Based upon the Transmission graph, I was able to determine that, with regards to specifically the Transmission, a vehicle that is Automatic is highly preferred.
 
-## In conclusion, in my humble opinion, I feel that Title Statuses, Vehicle Conditions, Fuel Types and Transmission types are 4 features that have a high influence in driving up the price of a car. Additionally, based on these 4 features, vehicles with Clean Titles, in Excellent Conditions, Gas Powered, and Automatic Transmissions are more highly preferred and would be of most value to Consumers.
+### In conclusion, in my humble opinion, I feel that Title Statuses, Vehicle Conditions, Fuel Types and Transmission types are 4 features that have a high influence in driving up the price of a car. Additionally, based on these 4 features, vehicles with Clean Titles, in Excellent Conditions, Gas Powered, and Automatic Transmissions are more highly preferred and would be of most value to Consumers.
 
 Sincerely,
 Mahalakshmi Ganesan
